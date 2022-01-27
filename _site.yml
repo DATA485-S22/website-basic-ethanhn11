@@ -5,7 +5,16 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "My Projects"
+      menu:
+      - text: "385 project" 
+        href: dds385project.html
+      - text: "example project" 
+        href: projects.html
+    - text: "About Me"
+      href: about.html
   right:
     - text: "Github"
       icon: fa-github
       href: https://github.com/
+  
